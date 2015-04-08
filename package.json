@@ -1,0 +1,17 @@
+{
+  "name": "koa_form_validator",
+  "version": "0.0.0",
+  "description": "form validator for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eflex",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^3.37.0"
+  },
+  "devDependencies": {
+    "should": "^5.2.0"
+  }
+}
